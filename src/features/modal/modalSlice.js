@@ -4,10 +4,10 @@ import { createSlice } from '@reduxjs/toolkit'
 const initialState = {
     isOpen: false
 }
-let tesing={
-name:modal,
-    state:false
-}
+//let tesing={
+//name:modal,
+  //  state:false
+//}
 const modalSlice = createSlice({
 
     name: 'modal',
