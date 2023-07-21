@@ -3,7 +3,7 @@ const cartItems = [
     id: 'rec1JZlfCIBOPdcT2',
     title: 'Samsung Galaxy S8',
     price: '399.99',
-    img: 'https://dl.airtable.com/.attachments/64b266ad865098befbda3c3577a773c9/24497852/yedjpkwxljtb75t3tezl.png',
+    img: 'https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.pngwing.com%2Fen%2Fsearch%3Fq%3Dsamsung%2BS8&psig=AOvVaw2vCtLosqOzVAgsx3BVsJqh&ust=1690057235264000&source=images&cd=vfe&opi=89978449&ved=0CAQQjB1qFwoTCPjm78_QoIADFQAAAAAdAAAAABAE',
     amount: 1,
   },
   {
