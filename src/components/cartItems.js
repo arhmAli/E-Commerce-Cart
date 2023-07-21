@@ -10,7 +10,7 @@ const cartItems = [
     id: 'recB6qcHPxb62YJ75',
     title: 'google pixel',
     price: '499.99',
-    img: 'https://dl.airtable.com/.attachments/91c88ae8c1580e2b762ecb3f73ed1eed/a633139a/phone-1_gvesln.png',
+    img: 'https://images.app.goo.gl/XZLHCZonUvVY7Z6w8',
     amount: 1,
   },
   {
